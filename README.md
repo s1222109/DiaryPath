@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://example.com" />
+    <meta http-equiv="refresh" content="0; url=https://f128ea1af328cd39ea.gradio.live/" />
     <title>Redirecting...</title>
   </head>
   <body>
