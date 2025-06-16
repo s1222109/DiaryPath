@@ -10,7 +10,7 @@
     // ✅ 在這裡只改一次網址
     const targetURL = "https://f128ea1af328cd39ea.gradio.live/";
     // 自動跳轉
-    window.location.replace(targetURL);
+    window.location.href = targetURL;
   </script>
 </head>
 <body>
