@@ -8,7 +8,7 @@
   <title>Redirecting...</title>
   <script>
     // ✅ 在這裡只改一次網址
-    const targetURL = "https://f128ea1af328cd39ea.gradio.live/";
+    const targetURL = "https://ae08bfd4dfb2ee3330.gradio.live/";
     // 自動跳轉
     window.location.href = targetURL;
   </script>
