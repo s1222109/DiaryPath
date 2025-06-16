@@ -1,5 +1,6 @@
 # DiaryPath
 日記系統的網址
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -7,6 +8,6 @@
     <title>Redirecting...</title>
   </head>
   <body>
-    <p>Redirecting to <a href="https://f128ea1af328cd39ea.gradio.live/">https://f128ea1af328cd39ea.gradio.live/</a></p>
+    <p>Redirecting to <a href="https://f128ea1af328cd39ea.gradio.live/">這裡</a></p>
   </body>
 </html>
